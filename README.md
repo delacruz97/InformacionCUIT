@@ -7,3 +7,5 @@
 
 
 ![Imagen 1](https://github.com/delacruz97/InformacionCUIT/blob/main/cliente/image/Uno.png)
+![Imagen 1](https://github.com/delacruz97/InformacionCUIT/blob/main/cliente/image/Dos.png)
+![Imagen 1](https://github.com/delacruz97/InformacionCUIT/blob/main/cliente/image/Tres.png)
